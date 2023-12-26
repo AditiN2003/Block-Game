@@ -1,4 +1,4 @@
-# Block-Game
+# Block Game
 ### Sliding Block Puzzle Game in Java
 
 This repository contains a Java implementation of a sliding block puzzle game. The project comprises three main classes: Block, Board, and GridUtil, which form the core logic of the game.
